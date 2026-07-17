@@ -1,0 +1,50 @@
+[
+    {
+        "word": "serendipity",
+        "meaning": "뜻밖의 발견, 의외의 기쁨",
+        "example": "Finding this cozy bookstore was pure serendipity.",
+        "starred": false
+    },
+    {
+        "word": "ephemeral",
+        "meaning": "수명이 짧은, 덧없는",
+        "example": "Cherry blossoms are beautiful but ephemeral.",
+        "starred": false
+    },
+    {
+        "word": "resilient",
+        "meaning": "회복력 있는, 탄력 있는",
+        "example": "She is a resilient girl who overcomes any hardship.",
+        "starred": false
+    },
+    {
+        "word": "luminous",
+        "meaning": "빛나는, 반짝이는",
+        "example": "The watch has luminous hands that glow in the dark.",
+        "starred": false
+    },
+    {
+        "word": "eloquent",
+        "meaning": "유창한, 설득력 있는",
+        "example": "His eloquent speech moved the entire audience.",
+        "starred": false
+    },
+    {
+        "word": "pragmatic",
+        "meaning": "실용적인",
+        "example": "We need to find a pragmatic solution to this problem.",
+        "starred": false
+    },
+    {
+        "word": "mellifluous",
+        "meaning": "달콤한, 감미로운",
+        "example": "The singer has a mellifluous voice.",
+        "starred": false
+    },
+    {
+        "word": "solitude",
+        "meaning": "고독, 외로움 (긍정적인 의미)",
+        "example": "He enjoyed the peace and solitude of the forest.",
+        "starred": false
+    }
+]
